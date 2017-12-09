@@ -17,7 +17,7 @@ We will collect data in two different ways:
 2. Statistical Analysis
    We will use SciPy library to compare recent data with the past to check if there is a significant change in financial data.
 3. Predictive analysis
-   We want to predict the future price for specific stock based on the history stock price data and we will make a prediction thought logistic regression training, multiple regression and SVM.
+   We want to predict the future price for specific stock based on the history stock price data and we will make a prediction thought logistic regression training, multiple regression, SVM and Support Vector Regression.
 
 ### Project Goals
 1. We will gain more experience with data analysis in Python and get familiar to various python modules, such as Numpy, Pandas, SciPy and Matplotlib. 
